@@ -1,5 +1,5 @@
 # Taller12-wiki
-
+### Integrantes: Joel Domínguez Ochoa - Luis Sánchez Armijos
 1. Realizar una lectura comprensiva de la temática **Errores en un programa** del capítulo 5 del texto https://elibro.net/es/ereader/bibliotecautpl/70315 [Lógica de la Programación] (ingresar con las credenciales de la universidad)
 
 2. Crear una wiki en el presente repositorio
